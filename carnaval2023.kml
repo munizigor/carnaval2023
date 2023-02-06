@@ -58,16 +58,16 @@
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="99">
-                <IconStyle id="100">
+            <Style id="117">
+                <IconStyle id="118">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="101">
+                    <Icon id="119">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="102">
+                <LabelStyle id="120">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
@@ -678,35 +678,35 @@
                 <description>
             &lt;h4&gt;&lt;b&gt;CANTEIRO DO SAMBA&lt;/b&gt;&lt;/h4&gt;
             &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Asa Sul - DF - Setor Comercial Sul - Praça Central do SCS - Quadra 5
+            &lt;b&gt;LOCAL&lt;/b&gt;: Próxima à Estação Metrô do Setor Comercial Sul - Setor Bancário Sul - Na Galeria dos Estados - Brasília - DF
             &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 10/02/2023 18:00
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 10/02/2023 17:00
             &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 11/02/2023 05:00
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 11/02/2023 01:00
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
         </description>
                 <styleUrl>#93</styleUrl>
                 <Point id="91">
-                    <coordinates>-47.8891,-15.7974,0.0</coordinates>
+                    <coordinates>-47.8855,-15.7987,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="98">
-                <name>CANTEIRO DO SAMBA - 10/02 - 1000 pessoas</name>
+            <Placemark id="116">
+                <name>CANTEIRO DO SAMBA - 11/02 - 1000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CANTEIRO DO SAMBA&lt;/b&gt;&lt;/h4&gt;
             &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Asa Sul - DF - Setor Comercial Sul - Praça Central do SCS - Quadra 5
+            &lt;b&gt;LOCAL&lt;/b&gt;: Próxima à Estação Metrô do Setor Comercial Sul - Setor Bancário Sul - Na Galeria dos Estados - Brasília - DF
             &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 10/02/2023 18:00
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 11/02/2023 15:00
             &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 11/02/2023 05:00
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 11/02/2023 23:00
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
         </description>
-                <styleUrl>#99</styleUrl>
-                <Point id="97">
-                    <coordinates>-47.8891,-15.7974,0.0</coordinates>
+                <styleUrl>#117</styleUrl>
+                <Point id="115">
+                    <coordinates>-47.8855,-15.7987,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="134">
@@ -1427,16 +1427,16 @@
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="111">
-                <IconStyle id="112">
+            <Style id="105">
+                <IconStyle id="106">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="113">
+                    <Icon id="107">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="114">
+                <LabelStyle id="108">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
@@ -2090,7 +2090,7 @@
                     <coordinates>-47.8992,-15.7836,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="110">
+            <Placemark id="104">
                 <name>BLOCO DO SAMBA DO PELEJA - 11/02 - 3500 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;BLOCO DO SAMBA DO PELEJA&lt;/b&gt;&lt;/h4&gt;
@@ -2103,8 +2103,8 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 3500
         </description>
-                <styleUrl>#111</styleUrl>
-                <Point id="109">
+                <styleUrl>#105</styleUrl>
+                <Point id="103">
                     <coordinates>-47.8792,-15.7726,0.0</coordinates>
                 </Point>
             </Placemark>
@@ -2990,30 +2990,30 @@
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="105">
-                <IconStyle id="106">
+            <Style id="99">
+                <IconStyle id="100">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="107">
+                    <Icon id="101">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="108">
+                <LabelStyle id="102">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="117">
-                <IconStyle id="118">
+            <Style id="111">
+                <IconStyle id="112">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="119">
+                    <Icon id="113">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="120">
+                <LabelStyle id="114">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
@@ -4019,7 +4019,7 @@
                     <coordinates>-47.7664,-15.8756,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="104">
+            <Placemark id="98">
                 <name>BLOCO SAMBA DA MULHER BONITA - 10/02 - 2000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;BLOCO SAMBA DA MULHER BONITA&lt;/b&gt;&lt;/h4&gt;
@@ -4032,12 +4032,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 2000
         </description>
-                <styleUrl>#105</styleUrl>
-                <Point id="103">
+                <styleUrl>#99</styleUrl>
+                <Point id="97">
                     <coordinates>-47.9341,-15.7853,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="116">
+            <Placemark id="110">
                 <name>BLOCO FIO DESENCAPADO - 11/02 - 900 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;BLOCO FIO DESENCAPADO&lt;/b&gt;&lt;/h4&gt;
@@ -4050,8 +4050,8 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 900
         </description>
-                <styleUrl>#117</styleUrl>
-                <Point id="115">
+                <styleUrl>#111</styleUrl>
+                <Point id="109">
                     <coordinates>-47.9179,-15.7846,0.0</coordinates>
                 </Point>
             </Placemark>
