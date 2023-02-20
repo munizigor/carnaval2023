@@ -1,1076 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="1029">
-        <Folder id="1030">
-            <Style id="1033">
-                <IconStyle id="1034">
+    <Document id="1426">
+        <Folder id="1427">
+            <Style id="1430">
+                <IconStyle id="1431">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1035">
+                    <Icon id="1432">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1036">
+                <LabelStyle id="1433">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1052">
-                <IconStyle id="1053">
+            <Style id="1443">
+                <IconStyle id="1444">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1054">
+                    <Icon id="1445">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1055">
+                <LabelStyle id="1446">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1058">
-                <IconStyle id="1059">
+            <Style id="1462">
+                <IconStyle id="1463">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1060">
+                    <Icon id="1464">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1061">
+                <LabelStyle id="1465">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1097">
-                <IconStyle id="1098">
+            <Style id="1518">
+                <IconStyle id="1519">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1099">
+                    <Icon id="1520">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1100">
+                <LabelStyle id="1521">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1139">
-                <IconStyle id="1140">
+            <Style id="1536">
+                <IconStyle id="1537">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1141">
+                    <Icon id="1538">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1142">
+                <LabelStyle id="1539">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1145">
-                <IconStyle id="1146">
+            <Style id="1578">
+                <IconStyle id="1579">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1147">
+                    <Icon id="1580">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1148">
+                <LabelStyle id="1581">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1151">
-                <IconStyle id="1152">
+            <Style id="1584">
+                <IconStyle id="1585">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1153">
+                    <Icon id="1586">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1154">
+                <LabelStyle id="1587">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1157">
-                <IconStyle id="1158">
+            <Style id="1602">
+                <IconStyle id="1603">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1159">
+                    <Icon id="1604">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1160">
+                <LabelStyle id="1605">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1181">
-                <IconStyle id="1182">
+            <Style id="1680">
+                <IconStyle id="1681">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1183">
+                    <Icon id="1682">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1184">
+                <LabelStyle id="1683">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1199">
-                <IconStyle id="1200">
+            <Style id="1686">
+                <IconStyle id="1687">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1201">
+                    <Icon id="1688">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1202">
+                <LabelStyle id="1689">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1205">
-                <IconStyle id="1206">
+            <Style id="1734">
+                <IconStyle id="1735">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1207">
+                    <Icon id="1736">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1208">
+                <LabelStyle id="1737">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1217">
-                <IconStyle id="1218">
+            <Style id="1740">
+                <IconStyle id="1741">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1219">
+                    <Icon id="1742">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1220">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1247">
-                <IconStyle id="1248">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1249">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1250">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1253">
-                <IconStyle id="1254">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1255">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1256">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1271">
-                <IconStyle id="1272">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1273">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1274">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1301">
-                <IconStyle id="1302">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1303">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1304">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1307">
-                <IconStyle id="1308">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1309">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1310">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1319">
-                <IconStyle id="1320">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1321">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1322">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1337">
-                <IconStyle id="1338">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1339">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1340">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1355">
-                <IconStyle id="1356">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1357">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1358">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1361">
-                <IconStyle id="1362">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1363">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1364">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1367">
-                <IconStyle id="1368">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1369">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1370">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1373">
-                <IconStyle id="1374">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1375">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1376">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1385">
-                <IconStyle id="1386">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1387">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1388">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1397">
-                <IconStyle id="1398">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1399">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1400">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1403">
-                <IconStyle id="1404">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1405">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1406">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1409">
-                <IconStyle id="1410">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1411">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1412">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1415">
-                <IconStyle id="1416">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1417">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1418">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <name>SATELITES</name>
-            <Placemark id="1032">
-                <name>BLOCO DA TOCA - 19/02 - 5500 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;BLOCO DA TOCA&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Boulevard Norte, próximo à Avenida Parque Águas Claras - Águas Claras - DF
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 19/02/2023 16:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 19/02/2023 22:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 5500
-        </description>
-                <styleUrl>#1033</styleUrl>
-                <Point id="1031">
-                    <coordinates>-48.0258,-15.8372,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1051">
-                <name>CARNAGEEK - 20/02 - 800 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAGEEK&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Ceilândia Sul - DF - QNN 16 Guariroba - Ginásio Regional de Ceilândia
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 10:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 23:59
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 800
-        </description>
-                <styleUrl>#1052</styleUrl>
-                <Point id="1050">
-                    <coordinates>-48.107,-15.8324,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1057">
-                <name>CARNAVAL DO PRIMEIRO - VAI TER CARNAVAL! - 20/02 - 1000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL DO PRIMEIRO - VAI TER CARNAVAL!&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Setor de Industrias Gráficas - DF - Área Externa ao Ldo do Primeiro Bar - SIG Quadra 08 Lote 2395
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 11:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 03:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
-        </description>
-                <styleUrl>#1058</styleUrl>
-                <Point id="1056">
-                    <coordinates>-47.9167,-15.7952,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1096">
-                <name>BLOCO SEM SENSURA (BLOCO SEM CENSURA) - 20/02 - 1000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;BLOCO SEM SENSURA (BLOCO SEM CENSURA)&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Cidade Estrutural - DF - Avenida Luiz Estevão - Área Especial
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 14:30
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 23:30
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
-        </description>
-                <styleUrl>#1097</styleUrl>
-                <Point id="1095">
-                    <coordinates>-47.9961,-15.7826,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1138">
-                <name>CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO - 20/02 - 4000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: São Sebastião - DF - Na DF 473 - Entre os Bairros São José e São Francisco
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 16:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 03:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 4000
-        </description>
-                <styleUrl>#1139</styleUrl>
-                <Point id="1137">
-                    <coordinates>-47.7674,-15.9103,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1144">
-                <name>FELICITTÁ FOLIA 2023 - 20/02 - 300 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;FELICITTÁ FOLIA 2023&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Águas Claras - DF - Avenida Castanheiras - Rua 36 Norte Lote 05
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 16:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 20:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 300
-        </description>
-                <styleUrl>#1145</styleUrl>
-                <Point id="1143">
-                    <coordinates>-48.0371,-15.8335,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1150">
-                <name>CARNAVAL NO JARDINS - 20/02 - 199 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 17:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
-        </description>
-                <styleUrl>#1151</styleUrl>
-                <Point id="1149">
-                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1156">
-                <name>CARNAVAL DO ASÉ DUDÚ 2023 (CANCELADO) - 20/02 - 12000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL DO ASÉ DUDÚ 2023 (CANCELADO)&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Taguatinga Norte - DF - Estacionamento 02 do Centro Cultural do Taguaparque
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 17:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 23:59
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 12000
-        </description>
-                <styleUrl>#1157</styleUrl>
-                <Point id="1155">
-                    <coordinates>-48.0554,-15.8177,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1180">
-                <name>TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023 - 20/02 - 10000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Brazlândia-DF, Rua do Lago
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 19:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 10000
-        </description>
-                <styleUrl>#1181</styleUrl>
-                <Point id="1179">
-                    <coordinates>-48.1978,-15.6824,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1198">
-                <name>CARNAFLOW - 21/02 - 0 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAFLOW&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Praça da Cidadania, Ceilândia
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 09:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 22:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 0
-        </description>
-                <styleUrl>#1199</styleUrl>
-                <Point id="1197">
-                    <coordinates>-48.1142,-15.8214,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1204">
-                <name>CARNAGEEK - 21/02 - 800 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAGEEK&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Ceilândia Sul - DF - QNN 16 Guariroba - Ginásio Regional de Ceilândia
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 10:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 23:59
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 800
-        </description>
-                <styleUrl>#1205</styleUrl>
-                <Point id="1203">
-                    <coordinates>-48.107,-15.8324,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1216">
-                <name>CARNAVAL DO PRIMEIRO - VAI TER CARNAVAL! - 21/02 - 1000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL DO PRIMEIRO - VAI TER CARNAVAL!&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Setor de Industrias Gráficas - DF - Área Externa ao Ldo do Primeiro Bar - SIG Quadra 08 Lote 2395
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 11:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 03:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
-        </description>
-                <styleUrl>#1217</styleUrl>
-                <Point id="1215">
-                    <coordinates>-47.9167,-15.7952,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1246">
-                <name>BLOCO DO SEU JULIO - 21/02 - 5000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;BLOCO DO SEU JULIO&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Avenida NL 1 - Centro Olímpico - Avenida Jair dos Santos - Setor de Diversão e Cultura - Planaltina
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 14:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 21:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 5000
-        </description>
-                <styleUrl>#1247</styleUrl>
-                <Point id="1245">
-                    <coordinates>-47.6506,-15.6152,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1252">
-                <name>BLOCO MANGA BOTÂNICA - 21/02 - 300 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;BLOCO MANGA BOTÂNICA&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Jardim Botânico - DF - Praça Vivencial do Jardim Botânico III
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 14:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 22:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 300
-        </description>
-                <styleUrl>#1253</styleUrl>
-                <Point id="1251">
-                    <coordinates>-47.8072,-15.885,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1270">
-                <name>CARNAVAL DO BLOCO MENINO DE CEILÂNDIA (CANCELADO) - 21/02 - 11000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL DO BLOCO MENINO DE CEILÂNDIA (CANCELADO)&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Ceilândia Centro - DF - CNM 01- Estacionamento do Forum/BRB Via N1
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 15:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 23:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 11000
-        </description>
-                <styleUrl>#1271</styleUrl>
-                <Point id="1269">
-                    <coordinates>-48.1026,-15.8183,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1300">
-                <name>BLOCO CARNAVALESCO DE RUA - SÃO SEBASTIÃO - 21/02 - 200 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;BLOCO CARNAVALESCO DE RUA - SÃO SEBASTIÃO&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: São Sebastião - DF - Avenida Central Lote 100 - Vila São José - Vila Nova
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 16:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 19:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 200
-        </description>
-                <styleUrl>#1301</styleUrl>
-                <Point id="1299">
-                    <coordinates>-47.7634,-15.9038,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1306">
-                <name>CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO - 21/02 - 4000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: São Sebastião - DF - Na DF 473 - Entre os Bairros São José e São Francisco
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 16:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 03:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 4000
-        </description>
-                <styleUrl>#1307</styleUrl>
-                <Point id="1305">
-                    <coordinates>-47.7674,-15.9103,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1318">
-                <name>CARNAVAL NO JARDINS - 21/02 - 199 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 17:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
-        </description>
-                <styleUrl>#1319</styleUrl>
-                <Point id="1317">
-                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1336">
-                <name>TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023 - 21/02 - 10000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Brazlândia-DF, Rua do Lago
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 19:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 10000
-        </description>
-                <styleUrl>#1337</styleUrl>
-                <Point id="1335">
-                    <coordinates>-48.1978,-15.6824,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1354">
-                <name>CARNAFLOW - 22/02 - 0 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAFLOW&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Praça da Cidadania, Ceilândia
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 22/02/2023 09:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 22:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 0
-        </description>
-                <styleUrl>#1355</styleUrl>
-                <Point id="1353">
-                    <coordinates>-48.1142,-15.8214,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1360">
-                <name>CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO - 22/02 - 4000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: São Sebastião - DF - Na DF 473 - Entre os Bairros São José e São Francisco
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 22/02/2023 16:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 23/02/2023 03:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 4000
-        </description>
-                <styleUrl>#1361</styleUrl>
-                <Point id="1359">
-                    <coordinates>-47.7674,-15.9103,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1366">
-                <name>CARNAVAL NO JARDINS - 22/02 - 199 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 22/02/2023 17:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 23/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
-        </description>
-                <styleUrl>#1367</styleUrl>
-                <Point id="1365">
-                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1372">
-                <name>CARNAVAL NO JARDINS - 24/02 - 199 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 24/02/2023 17:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 25/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
-        </description>
-                <styleUrl>#1373</styleUrl>
-                <Point id="1371">
-                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1384">
-                <name>BLOCO GAGÁ...Vial do Cruzeiro - 25/02 - 300 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;BLOCO GAGÁ...Vial do Cruzeiro&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Cruzeiro Novo - DF - Quadra 811 - Estacionamento do Ginásio do Cruzeiro
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 25/02/2023 13:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 25/02/2023 19:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 300
-        </description>
-                <styleUrl>#1385</styleUrl>
-                <Point id="1383">
-                    <coordinates>-47.9391,-15.7919,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1396">
-                <name>CARNAVAL NO JARDINS - 25/02 - 199 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 25/02/2023 17:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 26/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
-        </description>
-                <styleUrl>#1397</styleUrl>
-                <Point id="1395">
-                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1402">
-                <name>TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023 - 25/02 - 10000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Brazlândia-DF, Rua do Lago
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 25/02/2023 19:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 26/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 10000
-        </description>
-                <styleUrl>#1403</styleUrl>
-                <Point id="1401">
-                    <coordinates>-48.1978,-15.6824,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1408">
-                <name>CARNAVAL RECANTO DAS EMAS 2023 - 26/02 - 200 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL RECANTO DAS EMAS 2023&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Quadra 206/300 - Estacionamento da Administração Regional, Percurso pela Avenida Recanto das Emas, com Pontos de Paradas no Varandas Bar, Supermercado Euro, BRB, Americanas, Castelo Forte e Dispersão na Quadra 206/300- Estacionamento da Administração Regional.
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 26/02/2023 16:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 26/02/2023 22:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 200
-        </description>
-                <styleUrl>#1409</styleUrl>
-                <Point id="1407">
-                    <coordinates>-48.076,-15.9051,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1414">
-                <name>CARNAVAL NO JARDINS - 26/02 - 199 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 26/02/2023 17:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 27/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
-        </description>
-                <styleUrl>#1415</styleUrl>
-                <Point id="1413">
-                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="1037">
-            <Style id="1040">
-                <IconStyle id="1041">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1042">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1043">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1046">
-                <IconStyle id="1047">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1048">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1049">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1071">
-                <IconStyle id="1072">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1073">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1074">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1127">
-                <IconStyle id="1128">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1129">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1130">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1133">
-                <IconStyle id="1134">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1135">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1136">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1187">
-                <IconStyle id="1188">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1189">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1190">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1193">
-                <IconStyle id="1194">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1195">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1196">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1211">
-                <IconStyle id="1212">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1213">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1214">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1289">
-                <IconStyle id="1290">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1291">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1292">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1295">
-                <IconStyle id="1296">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1297">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1298">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1343">
-                <IconStyle id="1344">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1345">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1346">
-                    <colorMode>normal</colorMode>
-                    <scale>1.2</scale>
-                </LabelStyle>
-            </Style>
-            <Style id="1349">
-                <IconStyle id="1350">
-                    <colorMode>normal</colorMode>
-                    <scale>2</scale>
-                    <heading>0</heading>
-                    <Icon id="1351">
-                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="1352">
+                <LabelStyle id="1743">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
             <name>ASA SUL</name>
-            <Placemark id="1039">
+            <Placemark id="1429">
                 <name>CARNAVAL DO PINTINHO DE BRASÍLIA 2023 - 20/02 - 2000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL DO PINTINHO DE BRASÍLIA 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1083,12 +184,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 2000
         </description>
-                <styleUrl>#1040</styleUrl>
-                <Point id="1038">
+                <styleUrl>#1430</styleUrl>
+                <Point id="1428">
                     <coordinates>-47.88,-15.8023,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1045">
+            <Placemark id="1442">
                 <name>SETOR CARNAVALESCO SUL (INFANTIL) - 20/02 - 15000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;SETOR CARNAVALESCO SUL (INFANTIL)&lt;/b&gt;&lt;/h4&gt;
@@ -1101,12 +202,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 15000
         </description>
-                <styleUrl>#1046</styleUrl>
-                <Point id="1044">
+                <styleUrl>#1443</styleUrl>
+                <Point id="1441">
                     <coordinates>-47.8872,-15.7981,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1070">
+            <Placemark id="1461">
                 <name>CARNAVAL DO GALINHO DE BRASÍLIA 2023 - 20/02 - 30000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL DO GALINHO DE BRASÍLIA 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1119,30 +220,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 30000
         </description>
-                <styleUrl>#1071</styleUrl>
-                <Point id="1069">
+                <styleUrl>#1462</styleUrl>
+                <Point id="1460">
                     <coordinates>-47.88,-15.8023,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1126">
-                <name>SETOR CARNAVALESCO SUL - 20/02 - 15000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;SETOR CARNAVALESCO SUL&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Asa Sul - DF - Setor Comercial Sul - Quadras 2, 3, 4
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 16:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 22:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 15000
-        </description>
-                <styleUrl>#1127</styleUrl>
-                <Point id="1125">
-                    <coordinates>-47.8872,-15.7981,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1132">
+            <Placemark id="1517">
                 <name>CARNAROCK 2023 - 20/02 - 190 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAROCK 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1155,12 +238,30 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 190
         </description>
-                <styleUrl>#1133</styleUrl>
-                <Point id="1131">
+                <styleUrl>#1518</styleUrl>
+                <Point id="1516">
                     <coordinates>-47.9,-15.8004,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1186">
+            <Placemark id="1535">
+                <name>SETOR CARNAVALESCO SUL - 20/02 - 15000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;SETOR CARNAVALESCO SUL&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Asa Sul - DF - Setor Comercial Sul - Quadras 2, 3, 4
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 16:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 22:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 15000
+        </description>
+                <styleUrl>#1536</styleUrl>
+                <Point id="1534">
+                    <coordinates>-47.8872,-15.7981,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1577">
                 <name>CARNAVAL RETRÔ - 20/02 - 4000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL RETRÔ&lt;/b&gt;&lt;/h4&gt;
@@ -1173,12 +274,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 4000
         </description>
-                <styleUrl>#1187</styleUrl>
-                <Point id="1185">
+                <styleUrl>#1578</styleUrl>
+                <Point id="1576">
                     <coordinates>-47.8559,-15.8086,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1192">
+            <Placemark id="1583">
                 <name>CARNAVAL DO CALAF - 20/02 - 1000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL DO CALAF&lt;/b&gt;&lt;/h4&gt;
@@ -1191,12 +292,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
         </description>
-                <styleUrl>#1193</styleUrl>
-                <Point id="1191">
+                <styleUrl>#1584</styleUrl>
+                <Point id="1582">
                     <coordinates>-47.8821,-15.8009,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1210">
+            <Placemark id="1601">
                 <name>SETOR CARNAVALESCO SUL (INFANTIL) - 21/02 - 15000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;SETOR CARNAVALESCO SUL (INFANTIL)&lt;/b&gt;&lt;/h4&gt;
@@ -1209,12 +310,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 15000
         </description>
-                <styleUrl>#1211</styleUrl>
-                <Point id="1209">
+                <styleUrl>#1602</styleUrl>
+                <Point id="1600">
                     <coordinates>-47.8872,-15.7981,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1288">
+            <Placemark id="1679">
                 <name>SETOR CARNAVALESCO SUL - 21/02 - 15000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;SETOR CARNAVALESCO SUL&lt;/b&gt;&lt;/h4&gt;
@@ -1227,12 +328,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 15000
         </description>
-                <styleUrl>#1289</styleUrl>
-                <Point id="1287">
+                <styleUrl>#1680</styleUrl>
+                <Point id="1678">
                     <coordinates>-47.8872,-15.7981,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1294">
+            <Placemark id="1685">
                 <name>CARNAROCK 2023 - 21/02 - 190 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAROCK 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1245,12 +346,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 190
         </description>
-                <styleUrl>#1295</styleUrl>
-                <Point id="1293">
+                <styleUrl>#1686</styleUrl>
+                <Point id="1684">
                     <coordinates>-47.9,-15.8004,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1342">
+            <Placemark id="1733">
                 <name>BRILHA FOLIA CCBB - 21/02 - 5000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;BRILHA FOLIA CCBB&lt;/b&gt;&lt;/h4&gt;
@@ -1263,12 +364,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 5000
         </description>
-                <styleUrl>#1343</styleUrl>
-                <Point id="1341">
+                <styleUrl>#1734</styleUrl>
+                <Point id="1732">
                     <coordinates>-47.8383,-15.8136,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1348">
+            <Placemark id="1739">
                 <name>CARNAVAL DO CALAF - 21/02 - 1000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL DO CALAF&lt;/b&gt;&lt;/h4&gt;
@@ -1281,267 +382,1134 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
         </description>
-                <styleUrl>#1349</styleUrl>
-                <Point id="1347">
+                <styleUrl>#1740</styleUrl>
+                <Point id="1738">
                     <coordinates>-47.8821,-15.8009,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="1062">
-            <Style id="1065">
-                <IconStyle id="1066">
+        <Folder id="1434">
+            <Style id="1437">
+                <IconStyle id="1438">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1067">
+                    <Icon id="1439">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1068">
+                <LabelStyle id="1440">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1091">
-                <IconStyle id="1092">
+            <Style id="1449">
+                <IconStyle id="1450">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1093">
+                    <Icon id="1451">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1094">
+                <LabelStyle id="1452">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1103">
-                <IconStyle id="1104">
+            <Style id="1488">
+                <IconStyle id="1489">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1105">
+                    <Icon id="1490">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1106">
+                <LabelStyle id="1491">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1109">
-                <IconStyle id="1110">
+            <Style id="1524">
+                <IconStyle id="1525">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1111">
+                    <Icon id="1526">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1112">
+                <LabelStyle id="1527">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1115">
-                <IconStyle id="1116">
+            <Style id="1530">
+                <IconStyle id="1531">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1117">
+                    <Icon id="1532">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1118">
+                <LabelStyle id="1533">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1121">
-                <IconStyle id="1122">
+            <Style id="1548">
+                <IconStyle id="1549">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1123">
+                    <Icon id="1550">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1124">
+                <LabelStyle id="1551">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1163">
-                <IconStyle id="1164">
+            <Style id="1554">
+                <IconStyle id="1555">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1165">
+                    <Icon id="1556">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1166">
+                <LabelStyle id="1557">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1175">
-                <IconStyle id="1176">
+            <Style id="1572">
+                <IconStyle id="1573">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1177">
+                    <Icon id="1574">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1178">
+                <LabelStyle id="1575">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1223">
-                <IconStyle id="1224">
+            <Style id="1590">
+                <IconStyle id="1591">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1225">
+                    <Icon id="1592">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1226">
+                <LabelStyle id="1593">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1229">
-                <IconStyle id="1230">
+            <Style id="1596">
+                <IconStyle id="1597">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1231">
+                    <Icon id="1598">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1232">
+                <LabelStyle id="1599">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1241">
-                <IconStyle id="1242">
+            <Style id="1608">
+                <IconStyle id="1609">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1243">
+                    <Icon id="1610">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1244">
+                <LabelStyle id="1611">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1265">
-                <IconStyle id="1266">
+            <Style id="1638">
+                <IconStyle id="1639">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1267">
+                    <Icon id="1640">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1268">
+                <LabelStyle id="1641">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1277">
-                <IconStyle id="1278">
+            <Style id="1644">
+                <IconStyle id="1645">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1279">
+                    <Icon id="1646">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1280">
+                <LabelStyle id="1647">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1283">
-                <IconStyle id="1284">
+            <Style id="1662">
+                <IconStyle id="1663">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1285">
+                    <Icon id="1664">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1286">
+                <LabelStyle id="1665">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1313">
-                <IconStyle id="1314">
+            <Style id="1692">
+                <IconStyle id="1693">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1315">
+                    <Icon id="1694">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1316">
+                <LabelStyle id="1695">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1325">
-                <IconStyle id="1326">
+            <Style id="1698">
+                <IconStyle id="1699">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1327">
+                    <Icon id="1700">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1328">
+                <LabelStyle id="1701">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1379">
-                <IconStyle id="1380">
+            <Style id="1710">
+                <IconStyle id="1711">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1381">
+                    <Icon id="1712">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1382">
+                <LabelStyle id="1713">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1391">
-                <IconStyle id="1392">
+            <Style id="1728">
+                <IconStyle id="1729">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1393">
+                    <Icon id="1730">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1394">
+                <LabelStyle id="1731">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1746">
+                <IconStyle id="1747">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1748">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1749">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1752">
+                <IconStyle id="1753">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1754">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1755">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1758">
+                <IconStyle id="1759">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1760">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1761">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1764">
+                <IconStyle id="1765">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1766">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1767">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1776">
+                <IconStyle id="1777">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1778">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1779">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1788">
+                <IconStyle id="1789">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1790">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1791">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1794">
+                <IconStyle id="1795">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1796">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1797">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1800">
+                <IconStyle id="1801">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1802">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1803">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1806">
+                <IconStyle id="1807">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1808">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1809">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <name>SATELITES</name>
+            <Placemark id="1436">
+                <name>CARNAGEEK - 20/02 - 800 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAGEEK&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Ceilândia Sul - DF - QNN 16 Guariroba - Ginásio Regional de Ceilândia
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 10:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 23:59
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 800
+        </description>
+                <styleUrl>#1437</styleUrl>
+                <Point id="1435">
+                    <coordinates>-48.107,-15.8324,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1448">
+                <name>CARNAVAL DO PRIMEIRO - VAI TER CARNAVAL! - 20/02 - 1000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL DO PRIMEIRO - VAI TER CARNAVAL!&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Setor de Industrias Gráficas - DF - Área Externa ao Ldo do Primeiro Bar - SIG Quadra 08 Lote 2395
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 11:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 03:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
+        </description>
+                <styleUrl>#1449</styleUrl>
+                <Point id="1447">
+                    <coordinates>-47.9167,-15.7952,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1487">
+                <name>BLOCO SEM SENSURA (BLOCO SEM CENSURA) - 20/02 - 1000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;BLOCO SEM SENSURA (BLOCO SEM CENSURA)&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Cidade Estrutural - DF - Avenida Luiz Estevão - Área Especial
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 14:30
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 23:30
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
+        </description>
+                <styleUrl>#1488</styleUrl>
+                <Point id="1486">
+                    <coordinates>-47.9961,-15.7826,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1523">
+                <name>CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO - 20/02 - 4000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: São Sebastião - DF - Na DF 473 - Entre os Bairros São José e São Francisco
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 16:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 03:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 4000
+        </description>
+                <styleUrl>#1524</styleUrl>
+                <Point id="1522">
+                    <coordinates>-47.7674,-15.9103,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1529">
+                <name>FELICITTÁ FOLIA 2023 - 20/02 - 300 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;FELICITTÁ FOLIA 2023&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Águas Claras - DF - Avenida Castanheiras - Rua 36 Norte Lote 05
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 16:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 20:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 300
+        </description>
+                <styleUrl>#1530</styleUrl>
+                <Point id="1528">
+                    <coordinates>-48.0371,-15.8335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1547">
+                <name>CARNAVAL DO ASÉ DUDÚ 2023 (CANCELADO) - 20/02 - 12000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL DO ASÉ DUDÚ 2023 (CANCELADO)&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Taguatinga Norte - DF - Estacionamento 02 do Centro Cultural do Taguaparque
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 17:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 23:59
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 12000
+        </description>
+                <styleUrl>#1548</styleUrl>
+                <Point id="1546">
+                    <coordinates>-48.0554,-15.8177,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1553">
+                <name>CARNAVAL NO JARDINS - 20/02 - 199 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 17:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
+        </description>
+                <styleUrl>#1554</styleUrl>
+                <Point id="1552">
+                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1571">
+                <name>TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023 - 20/02 - 10000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Brazlândia-DF, Rua do Lago
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 19:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 10000
+        </description>
+                <styleUrl>#1572</styleUrl>
+                <Point id="1570">
+                    <coordinates>-48.1978,-15.6824,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1589">
+                <name>CARNAFLOW - 21/02 - 0 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAFLOW&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Praça da Cidadania, Ceilândia
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 09:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 22:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 0
+        </description>
+                <styleUrl>#1590</styleUrl>
+                <Point id="1588">
+                    <coordinates>-48.1142,-15.8214,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1595">
+                <name>CARNAGEEK - 21/02 - 800 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAGEEK&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Ceilândia Sul - DF - QNN 16 Guariroba - Ginásio Regional de Ceilândia
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 10:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 23:59
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 800
+        </description>
+                <styleUrl>#1596</styleUrl>
+                <Point id="1594">
+                    <coordinates>-48.107,-15.8324,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1607">
+                <name>CARNAVAL DO PRIMEIRO - VAI TER CARNAVAL! - 21/02 - 1000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL DO PRIMEIRO - VAI TER CARNAVAL!&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Setor de Industrias Gráficas - DF - Área Externa ao Ldo do Primeiro Bar - SIG Quadra 08 Lote 2395
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 11:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 03:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
+        </description>
+                <styleUrl>#1608</styleUrl>
+                <Point id="1606">
+                    <coordinates>-47.9167,-15.7952,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1637">
+                <name>BLOCO DO SEU JULIO - 21/02 - 5000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;BLOCO DO SEU JULIO&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Avenida NL 1 - Centro Olímpico - Avenida Jair dos Santos - Setor de Diversão e Cultura - Planaltina
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 14:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 21:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 5000
+        </description>
+                <styleUrl>#1638</styleUrl>
+                <Point id="1636">
+                    <coordinates>-47.6506,-15.6152,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1643">
+                <name>BLOCO MANGA BOTÂNICA - 21/02 - 300 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;BLOCO MANGA BOTÂNICA&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Jardim Botânico - DF - Praça Vivencial do Jardim Botânico III
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 14:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 22:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 300
+        </description>
+                <styleUrl>#1644</styleUrl>
+                <Point id="1642">
+                    <coordinates>-47.8072,-15.885,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1661">
+                <name>CARNAVAL DO BLOCO MENINO DE CEILÂNDIA (CANCELADO) - 21/02 - 11000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL DO BLOCO MENINO DE CEILÂNDIA (CANCELADO)&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Ceilândia Centro - DF - CNM 01- Estacionamento do Forum/BRB Via N1
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 15:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 23:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 11000
+        </description>
+                <styleUrl>#1662</styleUrl>
+                <Point id="1660">
+                    <coordinates>-48.1026,-15.8183,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1691">
+                <name>BLOCO CARNAVALESCO DE RUA - SÃO SEBASTIÃO - 21/02 - 200 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;BLOCO CARNAVALESCO DE RUA - SÃO SEBASTIÃO&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: São Sebastião - DF - Avenida Central Lote 100 - Vila São José - Vila Nova
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 16:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 19:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 200
+        </description>
+                <styleUrl>#1692</styleUrl>
+                <Point id="1690">
+                    <coordinates>-47.7634,-15.9038,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1697">
+                <name>CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO - 21/02 - 4000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: São Sebastião - DF - Na DF 473 - Entre os Bairros São José e São Francisco
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 16:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 03:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 4000
+        </description>
+                <styleUrl>#1698</styleUrl>
+                <Point id="1696">
+                    <coordinates>-47.7674,-15.9103,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1709">
+                <name>CARNAVAL NO JARDINS - 21/02 - 199 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 17:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
+        </description>
+                <styleUrl>#1710</styleUrl>
+                <Point id="1708">
+                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1727">
+                <name>TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023 - 21/02 - 10000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Brazlândia-DF, Rua do Lago
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 21/02/2023 19:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 10000
+        </description>
+                <styleUrl>#1728</styleUrl>
+                <Point id="1726">
+                    <coordinates>-48.1978,-15.6824,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1745">
+                <name>CARNAFLOW - 22/02 - 0 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAFLOW&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Praça da Cidadania, Ceilândia
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 22/02/2023 09:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 22/02/2023 22:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 0
+        </description>
+                <styleUrl>#1746</styleUrl>
+                <Point id="1744">
+                    <coordinates>-48.1142,-15.8214,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1751">
+                <name>CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO - 22/02 - 4000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL DA AVENIDA 2023 - SÃO SEBASTIÃO&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: São Sebastião - DF - Na DF 473 - Entre os Bairros São José e São Francisco
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 22/02/2023 16:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 23/02/2023 03:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 4000
+        </description>
+                <styleUrl>#1752</styleUrl>
+                <Point id="1750">
+                    <coordinates>-47.7674,-15.9103,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1757">
+                <name>CARNAVAL NO JARDINS - 22/02 - 199 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 22/02/2023 17:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 23/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
+        </description>
+                <styleUrl>#1758</styleUrl>
+                <Point id="1756">
+                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1763">
+                <name>CARNAVAL NO JARDINS - 24/02 - 199 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 24/02/2023 17:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 25/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
+        </description>
+                <styleUrl>#1764</styleUrl>
+                <Point id="1762">
+                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1775">
+                <name>BLOCO GAGÁ...Vial do Cruzeiro - 25/02 - 300 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;BLOCO GAGÁ...Vial do Cruzeiro&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Cruzeiro Novo - DF - Quadra 811 - Estacionamento do Ginásio do Cruzeiro
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 25/02/2023 13:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 25/02/2023 19:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 300
+        </description>
+                <styleUrl>#1776</styleUrl>
+                <Point id="1774">
+                    <coordinates>-47.9391,-15.7919,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1787">
+                <name>CARNAVAL NO JARDINS - 25/02 - 199 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 25/02/2023 17:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 26/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
+        </description>
+                <styleUrl>#1788</styleUrl>
+                <Point id="1786">
+                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1793">
+                <name>TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023 - 25/02 - 10000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;TRADICIONAL CARNAVAL DE BRAZLANDIA - BRAZFOLIA 2023&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Brazlândia-DF, Rua do Lago
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 25/02/2023 19:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 26/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 10000
+        </description>
+                <styleUrl>#1794</styleUrl>
+                <Point id="1792">
+                    <coordinates>-48.1978,-15.6824,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1799">
+                <name>CARNAVAL RECANTO DAS EMAS 2023 - 26/02 - 200 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL RECANTO DAS EMAS 2023&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Quadra 206/300 - Estacionamento da Administração Regional, Percurso pela Avenida Recanto das Emas, com Pontos de Paradas no Varandas Bar, Supermercado Euro, BRB, Americanas, Castelo Forte e Dispersão na Quadra 206/300- Estacionamento da Administração Regional.
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 26/02/2023 16:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 26/02/2023 22:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 200
+        </description>
+                <styleUrl>#1800</styleUrl>
+                <Point id="1798">
+                    <coordinates>-48.076,-15.9051,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1805">
+                <name>CARNAVAL NO JARDINS - 26/02 - 199 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNAVAL NO JARDINS&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Q6 Lote &quot;H&quot; e &quot;I&quot; - Av. das Paineiras - Setor Habitacional Jardim Botânico - Brasília
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 26/02/2023 17:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 27/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 199
+        </description>
+                <styleUrl>#1806</styleUrl>
+                <Point id="1804">
+                    <coordinates>-47.7664,-15.8756,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="1453">
+            <Style id="1456">
+                <IconStyle id="1457">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1458">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1459">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1482">
+                <IconStyle id="1483">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1484">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1485">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1494">
+                <IconStyle id="1495">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1496">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1497">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1500">
+                <IconStyle id="1501">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1502">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1503">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1506">
+                <IconStyle id="1507">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1508">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1509">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1512">
+                <IconStyle id="1513">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1514">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1515">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1542">
+                <IconStyle id="1543">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1544">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1545">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1566">
+                <IconStyle id="1567">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1568">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1569">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1614">
+                <IconStyle id="1615">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1616">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1617">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1620">
+                <IconStyle id="1621">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1622">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1623">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1632">
+                <IconStyle id="1633">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1634">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1635">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1656">
+                <IconStyle id="1657">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1658">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1659">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1668">
+                <IconStyle id="1669">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1670">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1671">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1674">
+                <IconStyle id="1675">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1676">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1677">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1704">
+                <IconStyle id="1705">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1706">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1707">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1716">
+                <IconStyle id="1717">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1718">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1719">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1770">
+                <IconStyle id="1771">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1772">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1773">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="1782">
+                <IconStyle id="1783">
+                    <colorMode>normal</colorMode>
+                    <scale>2</scale>
+                    <heading>0</heading>
+                    <Icon id="1784">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="1785">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
             <name>ASA NORTE</name>
-            <Placemark id="1064">
+            <Placemark id="1455">
                 <name>CARNAVAL DO ALTO NORTE - 20/02 - 300 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL DO ALTO NORTE&lt;/b&gt;&lt;/h4&gt;
@@ -1554,12 +1522,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 300
         </description>
-                <styleUrl>#1065</styleUrl>
-                <Point id="1063">
+                <styleUrl>#1456</styleUrl>
+                <Point id="1454">
                     <coordinates>-47.895,-15.7528,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1090">
+            <Placemark id="1481">
                 <name>QUADRADIM DA FOLIA - 20/02 - 6000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;QUADRADIM DA FOLIA&lt;/b&gt;&lt;/h4&gt;
@@ -1572,48 +1540,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 6000
         </description>
-                <styleUrl>#1091</styleUrl>
-                <Point id="1089">
+                <styleUrl>#1482</styleUrl>
+                <Point id="1480">
                     <coordinates>-47.9032,-15.7831,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1102">
-                <name>CARNÁ BARZIN - 20/02 - 1000 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNÁ BARZIN&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Asa Norte - DF - CLN 413 Bloco E - Estacionamento do Bar
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 15:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 23:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
-        </description>
-                <styleUrl>#1103</styleUrl>
-                <Point id="1101">
-                    <coordinates>-47.883,-15.747,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1108">
-                <name>CARNABAR - 20/02 - 500 pessoas</name>
-                <description>
-            &lt;h4&gt;&lt;b&gt;CARNABAR&lt;/b&gt;&lt;/h4&gt;
-            &lt;br&gt;
-            &lt;b&gt;LOCAL&lt;/b&gt;: Asa Norte - DF - CLN 201 Entre os Blocos A e B
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 15:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 01:00
-            &lt;br&gt;&lt;br&gt;
-            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 500
-        </description>
-                <styleUrl>#1109</styleUrl>
-                <Point id="1107">
-                    <coordinates>-47.8792,-15.789,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="1114">
+            <Placemark id="1493">
                 <name>BLOCO ENCOSTA QUE CRESCE (CANCELADO) - 20/02 - 35000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;BLOCO ENCOSTA QUE CRESCE (CANCELADO)&lt;/b&gt;&lt;/h4&gt;
@@ -1626,12 +1558,30 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 35000
         </description>
-                <styleUrl>#1115</styleUrl>
-                <Point id="1113">
+                <styleUrl>#1494</styleUrl>
+                <Point id="1492">
                     <coordinates>-47.8991,-15.7716,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1120">
+            <Placemark id="1499">
+                <name>CARNÁ BARZIN - 20/02 - 1000 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNÁ BARZIN&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Asa Norte - DF - CLN 413 Bloco E - Estacionamento do Bar
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 15:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 20/02/2023 23:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
+        </description>
+                <styleUrl>#1500</styleUrl>
+                <Point id="1498">
+                    <coordinates>-47.883,-15.747,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1505">
                 <name>CARNA PINELLA - 20/02 - 800 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNA PINELLA&lt;/b&gt;&lt;/h4&gt;
@@ -1644,12 +1594,30 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 800
         </description>
-                <styleUrl>#1121</styleUrl>
-                <Point id="1119">
+                <styleUrl>#1506</styleUrl>
+                <Point id="1504">
                     <coordinates>-47.8801,-15.76,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1162">
+            <Placemark id="1511">
+                <name>CARNABAR - 20/02 - 500 pessoas</name>
+                <description>
+            &lt;h4&gt;&lt;b&gt;CARNABAR&lt;/b&gt;&lt;/h4&gt;
+            &lt;br&gt;
+            &lt;b&gt;LOCAL&lt;/b&gt;: Asa Norte - DF - CLN 201 Entre os Blocos A e B
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;INÍCIO&lt;/b&gt;: 20/02/2023 15:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;TÉRMINO&lt;/b&gt;: 21/02/2023 01:00
+            &lt;br&gt;&lt;br&gt;
+            &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 500
+        </description>
+                <styleUrl>#1512</styleUrl>
+                <Point id="1510">
+                    <coordinates>-47.8792,-15.789,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1541">
                 <name>CONCENTRA MAIS NÃO SAI - 20/02 - 1000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CONCENTRA MAIS NÃO SAI&lt;/b&gt;&lt;/h4&gt;
@@ -1662,12 +1630,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
         </description>
-                <styleUrl>#1163</styleUrl>
-                <Point id="1161">
+                <styleUrl>#1542</styleUrl>
+                <Point id="1540">
                     <coordinates>-47.876,-15.7731,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1174">
+            <Placemark id="1565">
                 <name>Praça dos Prazeres 2023 - 20/02 - 8000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;Praça dos Prazeres 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1680,12 +1648,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 8000
         </description>
-                <styleUrl>#1175</styleUrl>
-                <Point id="1173">
+                <styleUrl>#1566</styleUrl>
+                <Point id="1564">
                     <coordinates>-47.8779,-15.7847,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1222">
+            <Placemark id="1613">
                 <name>CARNAVAL DO ALTO NORTE - 21/02 - 300 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL DO ALTO NORTE&lt;/b&gt;&lt;/h4&gt;
@@ -1698,12 +1666,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 300
         </description>
-                <styleUrl>#1223</styleUrl>
-                <Point id="1221">
+                <styleUrl>#1614</styleUrl>
+                <Point id="1612">
                     <coordinates>-47.895,-15.7528,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1228">
+            <Placemark id="1619">
                 <name>BLOCO PACOTÃO 2023 - 21/02 - 15000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;BLOCO PACOTÃO 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1716,12 +1684,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 15000
         </description>
-                <styleUrl>#1229</styleUrl>
-                <Point id="1227">
+                <styleUrl>#1620</styleUrl>
+                <Point id="1618">
                     <coordinates>-47.8876,-15.7809,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1240">
+            <Placemark id="1631">
                 <name>QUADRADIM DA FOLIA - 21/02 - 6000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;QUADRADIM DA FOLIA&lt;/b&gt;&lt;/h4&gt;
@@ -1734,12 +1702,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 6000
         </description>
-                <styleUrl>#1241</styleUrl>
-                <Point id="1239">
+                <styleUrl>#1632</styleUrl>
+                <Point id="1630">
                     <coordinates>-47.9032,-15.7831,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1264">
+            <Placemark id="1655">
                 <name>CARNA PINELLA - 21/02 - 800 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNA PINELLA&lt;/b&gt;&lt;/h4&gt;
@@ -1752,12 +1720,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 800
         </description>
-                <styleUrl>#1265</styleUrl>
-                <Point id="1263">
+                <styleUrl>#1656</styleUrl>
+                <Point id="1654">
                     <coordinates>-47.8801,-15.76,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1276">
+            <Placemark id="1667">
                 <name>CARNABAR - 21/02 - 500 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNABAR&lt;/b&gt;&lt;/h4&gt;
@@ -1770,12 +1738,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 500
         </description>
-                <styleUrl>#1277</styleUrl>
-                <Point id="1275">
+                <styleUrl>#1668</styleUrl>
+                <Point id="1666">
                     <coordinates>-47.8792,-15.789,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1282">
+            <Placemark id="1673">
                 <name>CARNÁ BARZIN - 21/02 - 1000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNÁ BARZIN&lt;/b&gt;&lt;/h4&gt;
@@ -1788,12 +1756,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
         </description>
-                <styleUrl>#1283</styleUrl>
-                <Point id="1281">
+                <styleUrl>#1674</styleUrl>
+                <Point id="1672">
                     <coordinates>-47.883,-15.747,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1312">
+            <Placemark id="1703">
                 <name>CARNAVAL - PLATAFORMA PONTA NORTE - Bloco Me Beija Kids - 21/02 - 180 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL - PLATAFORMA PONTA NORTE - Bloco Me Beija Kids&lt;/b&gt;&lt;/h4&gt;
@@ -1806,12 +1774,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 180
         </description>
-                <styleUrl>#1313</styleUrl>
-                <Point id="1311">
+                <styleUrl>#1704</styleUrl>
+                <Point id="1702">
                     <coordinates>-47.8882,-15.7384,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1324">
+            <Placemark id="1715">
                 <name>Praça dos Prazeres 2023 - 21/02 - 8000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;Praça dos Prazeres 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1824,12 +1792,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 8000
         </description>
-                <styleUrl>#1325</styleUrl>
-                <Point id="1323">
+                <styleUrl>#1716</styleUrl>
+                <Point id="1714">
                     <coordinates>-47.8779,-15.7847,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1378">
+            <Placemark id="1769">
                 <name>RESSACA DO ALTO NORTE - 25/02 - 200 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;RESSACA DO ALTO NORTE&lt;/b&gt;&lt;/h4&gt;
@@ -1842,12 +1810,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 200
         </description>
-                <styleUrl>#1379</styleUrl>
-                <Point id="1377">
+                <styleUrl>#1770</styleUrl>
+                <Point id="1768">
                     <coordinates>-47.8985,-15.745,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1390">
+            <Placemark id="1781">
                 <name>CARNAVAL DO GIGANTE - 25/02 - 4000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAVAL DO GIGANTE&lt;/b&gt;&lt;/h4&gt;
@@ -1860,71 +1828,71 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 4000
         </description>
-                <styleUrl>#1391</styleUrl>
-                <Point id="1389">
+                <styleUrl>#1782</styleUrl>
+                <Point id="1780">
                     <coordinates>-47.8992,-15.7835,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="1075">
-            <Style id="1078">
-                <IconStyle id="1079">
+        <Folder id="1466">
+            <Style id="1469">
+                <IconStyle id="1470">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1080">
+                    <Icon id="1471">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1081">
+                <LabelStyle id="1472">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1169">
-                <IconStyle id="1170">
+            <Style id="1560">
+                <IconStyle id="1561">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1171">
+                    <Icon id="1562">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1172">
+                <LabelStyle id="1563">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1331">
-                <IconStyle id="1332">
+            <Style id="1722">
+                <IconStyle id="1723">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1333">
+                    <Icon id="1724">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1334">
+                <LabelStyle id="1725">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1421">
-                <IconStyle id="1422">
+            <Style id="1812">
+                <IconStyle id="1813">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1423">
+                    <Icon id="1814">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1424">
+                <LabelStyle id="1815">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
             <name>IBERO AMERICANO</name>
-            <Placemark id="1077">
+            <Placemark id="1468">
                 <name>BLOCO BARATONA 2023 - 20/02 - 40000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;BLOCO BARATONA 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1937,12 +1905,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 40000
         </description>
-                <styleUrl>#1078</styleUrl>
-                <Point id="1076">
+                <styleUrl>#1469</styleUrl>
+                <Point id="1467">
                     <coordinates>-47.8934,-15.7888,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1168">
+            <Placemark id="1559">
                 <name>CARNAMUSEU 4ª EDIÇÃO - 20/02 - 1000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAMUSEU 4ª EDIÇÃO&lt;/b&gt;&lt;/h4&gt;
@@ -1955,12 +1923,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 1000
         </description>
-                <styleUrl>#1169</styleUrl>
-                <Point id="1167">
+                <styleUrl>#1560</styleUrl>
+                <Point id="1558">
                     <coordinates>-47.9118,-15.7847,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1330">
+            <Placemark id="1721">
                 <name>CARNAMUSEU 4ª EDIÇÃO - 21/02 - 3000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;CARNAMUSEU 4ª EDIÇÃO&lt;/b&gt;&lt;/h4&gt;
@@ -1973,12 +1941,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 3000
         </description>
-                <styleUrl>#1331</styleUrl>
-                <Point id="1329">
+                <styleUrl>#1722</styleUrl>
+                <Point id="1720">
                     <coordinates>-47.9118,-15.7847,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1420">
+            <Placemark id="1811">
                 <name>RESSACA DO CARNAVAL DE BRASÍLIA 2023 - 04/03 - 6000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;RESSACA DO CARNAVAL DE BRASÍLIA 2023&lt;/b&gt;&lt;/h4&gt;
@@ -1991,57 +1959,57 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 6000
         </description>
-                <styleUrl>#1421</styleUrl>
-                <Point id="1419">
+                <styleUrl>#1812</styleUrl>
+                <Point id="1810">
                     <coordinates>-47.8967,-15.7892,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="1082">
-            <Style id="1085">
-                <IconStyle id="1086">
+        <Folder id="1473">
+            <Style id="1476">
+                <IconStyle id="1477">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1087">
+                    <Icon id="1478">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1088">
+                <LabelStyle id="1479">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1235">
-                <IconStyle id="1236">
+            <Style id="1626">
+                <IconStyle id="1627">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1237">
+                    <Icon id="1628">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1238">
+                <LabelStyle id="1629">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
-            <Style id="1259">
-                <IconStyle id="1260">
+            <Style id="1650">
+                <IconStyle id="1651">
                     <colorMode>normal</colorMode>
                     <scale>2</scale>
                     <heading>0</heading>
-                    <Icon id="1261">
+                    <Icon id="1652">
                         <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="1262">
+                <LabelStyle id="1653">
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
             </Style>
             <name>PARQUE DA CIDADE</name>
-            <Placemark id="1084">
+            <Placemark id="1475">
                 <name>PLATAFORMA DA DIVERSIDADE (Carnaval de Todas as Cores) - 20/02 - 30100 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;PLATAFORMA DA DIVERSIDADE (Carnaval de Todas as Cores)&lt;/b&gt;&lt;/h4&gt;
@@ -2054,12 +2022,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 30100
         </description>
-                <styleUrl>#1085</styleUrl>
-                <Point id="1083">
+                <styleUrl>#1476</styleUrl>
+                <Point id="1474">
                     <coordinates>-47.9126,-15.8063,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1234">
+            <Placemark id="1625">
                 <name>BLOCO PCD PORTADORES DA ALEGRIA 2023 - 21/02 - 40000 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;BLOCO PCD PORTADORES DA ALEGRIA 2023&lt;/b&gt;&lt;/h4&gt;
@@ -2072,12 +2040,12 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 40000
         </description>
-                <styleUrl>#1235</styleUrl>
-                <Point id="1233">
+                <styleUrl>#1626</styleUrl>
+                <Point id="1624">
                     <coordinates>-47.8982,-15.7922,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="1258">
+            <Placemark id="1649">
                 <name>PLATAFORMA DA DIVERSIDADE (Carnaval de Todas as Cores) - 21/02 - 30100 pessoas</name>
                 <description>
             &lt;h4&gt;&lt;b&gt;PLATAFORMA DA DIVERSIDADE (Carnaval de Todas as Cores)&lt;/b&gt;&lt;/h4&gt;
@@ -2090,8 +2058,8 @@
             &lt;br&gt;&lt;br&gt;
             &lt;b&gt;PÚBLICO ESTIMADO&lt;/b&gt;: 30100
         </description>
-                <styleUrl>#1259</styleUrl>
-                <Point id="1257">
+                <styleUrl>#1650</styleUrl>
+                <Point id="1648">
                     <coordinates>-47.9126,-15.8063,0.0</coordinates>
                 </Point>
             </Placemark>
